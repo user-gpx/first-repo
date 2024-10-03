@@ -1,7 +1,7 @@
 import numpy as np
 import os
 import re
-
+"添加一下试试"
 #将npy文件转换为txt文件
 exp_dir = "modelnet40_c\label.npy"
 loaded_arr = np.load(exp_dir)
